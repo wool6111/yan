@@ -33,7 +33,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 	<!-- <insert id="insertRentList" parameterType="sist.com.dto.RentListBean">
 		INSERT INTO RENTLIST
 		VALUES(RENTLIST_SEQ_NO.NEXTVAL,#{rentdate},#{returndate},#{carno},#{memberno},#{psgnum},#{ofcno},#{rprice})
-	</insert> -->
+	</insert> ttt -->
 </mapper>
 
 
